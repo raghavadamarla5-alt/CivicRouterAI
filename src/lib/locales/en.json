@@ -1,0 +1,81 @@
+{
+  "header": {
+    "dashboard": "Home",
+    "portals": "Government Portals",
+    "report": "Report Problem",
+    "track": "Track Complaint",
+    "language": "Language",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "searchError": "Please enter a civic problem to search.",
+    "greeting": "Welcome back",
+    "subtitle": "Report civic issues, discover the right government department, and follow your complaint journey in one place.",
+    "searchPlaceholder": "Search services, portals, or civic problems...",
+    "reportAction": "Report Problem",
+    "portalsAction": "Find Portals",
+    "trackAction": "Track Complaint",
+    "askAiAction": "Ask CIVIC AI",
+    "selectIssue": "Select a Civic Issue",
+    "selectIssueDesc": "Click any category to begin your report",
+    "overview": "Civic Issues Overview",
+    "overviewDesc": "Live platform statistics across India"
+  },
+  "portals": {
+    "title": "Government Portal Directory",
+    "desc": "Discover verified official grievance and service portals across Central, State, and Local authorities.",
+    "searchPlaceholder": "Search portals by name, department, or service...",
+    "resetFilters": "Reset Filters",
+    "openPortal": "Open Portal",
+    "noResults": "No verified portals found",
+    "allStates": "All States & UTs (Jurisdiction)",
+    "totalRecords": "Total Records"
+  },
+  "assistant": {
+    "q1": "Where should I report a pothole?",
+    "q2": "How can I complain about garbage collection?",
+    "q3": "Which portal handles water supply issues?",
+    "q4": "How do I report a broken streetlight?",
+    "greeting": "Hi! I am CIVIC AI. I can help you find government portals, classify civic issues, and track your complaints. How can I help?",
+    "placeholder": "Ask CIVIC AI... (Shift+Enter for new line)",
+    "clear": "Clear Conversation"
+  },
+  "login": {
+    "errorValidMobile": "Enter valid mobile number",
+    "errorMsg": "Login failed",
+    "title": "AI CIVIC ASSISTANCE",
+    "subtitle": "Secure Citizen Login",
+    "mobileLabel": "Mobile Number",
+    "mobilePlaceholder": "10-digit mobile number",
+    "stateLabel": "State",
+    "selectState": "Select State",
+    "allowLocation": "Allow Location Access",
+    "sending": "Sending...",
+    "sendOtp": "Send OTP / Login",
+    "agreement": "By logging in, you agree to the use of an authorized identity-verification service to prevent false complaints.",
+    "privacyTitle": "Location Privacy Guaranteed",
+    "privacyDesc": "Your location is only used to route your complaint to the correct local authority."
+  },
+  "report": {
+    "headerTitle": "Report a Problem",
+    "cancel": "Cancel",
+    "whereTitle": "Where is the problem?",
+    "useLocation": "Use My Current Location",
+    "useLocationDesc": "Allow GPS access to pinpoint the exact authority responsible.",
+    "locating": "Locating...",
+    "locateMe": "Locate Me",
+    "uploadTitle": "Upload Evidence",
+    "uploadDesc": "Providing clear photos or videos helps the authority understand the severity.",
+    "tapToUpload": "Tap to upload photos or videos",
+    "uploadLimit": "Maximum 3 files (JPG, PNG, MP4)",
+    "describeTitle": "Describe the Problem",
+    "describeDesc": "Write a short description or use your voice to describe what happened."
+  },
+  "tracking": {
+    "title": "My Complaints",
+    "searchPlaceholder": "Search by Complaint ID or Problem...",
+    "loading": "Loading your tracking history...",
+    "noComplaints": "No complaints found.",
+    "noComplaintsDesc": "Try adjusting your filters or go back to the dashboard to report a problem."
+  }
+}

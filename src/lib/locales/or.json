@@ -1,0 +1,81 @@
+{
+  "header": {
+    "dashboard": "",
+    "portals": "",
+    "report": "",
+    "track": "",
+    "language": "",
+    "profile": ""
+  },
+  "dashboard": {
+    "searchError": "",
+    "greeting": "",
+    "subtitle": "",
+    "searchPlaceholder": "",
+    "reportAction": "",
+    "portalsAction": "",
+    "trackAction": "",
+    "askAiAction": "",
+    "selectIssue": "",
+    "selectIssueDesc": "",
+    "overview": "",
+    "overviewDesc": ""
+  },
+  "portals": {
+    "title": "",
+    "desc": "",
+    "searchPlaceholder": "",
+    "resetFilters": "",
+    "openPortal": "",
+    "noResults": "",
+    "allStates": "",
+    "totalRecords": ""
+  },
+  "assistant": {
+    "q1": "",
+    "q2": "",
+    "q3": "",
+    "q4": "",
+    "greeting": "",
+    "placeholder": "",
+    "clear": ""
+  },
+  "login": {
+    "errorValidMobile": "",
+    "errorMsg": "",
+    "title": "",
+    "subtitle": "",
+    "mobileLabel": "",
+    "mobilePlaceholder": "",
+    "stateLabel": "",
+    "selectState": "",
+    "allowLocation": "",
+    "sending": "",
+    "sendOtp": "",
+    "agreement": "",
+    "privacyTitle": "",
+    "privacyDesc": ""
+  },
+  "report": {
+    "headerTitle": "",
+    "cancel": "",
+    "whereTitle": "",
+    "useLocation": "",
+    "useLocationDesc": "",
+    "locating": "",
+    "locateMe": "",
+    "uploadTitle": "",
+    "uploadDesc": "",
+    "tapToUpload": "",
+    "uploadLimit": "",
+    "describeTitle": "",
+    "describeDesc": ""
+  },
+  "tracking": {
+    "title": "",
+    "searchPlaceholder": "",
+    "loading": "",
+    "noComplaints": "",
+    "noComplaintsDesc": ""
+  }
+}
