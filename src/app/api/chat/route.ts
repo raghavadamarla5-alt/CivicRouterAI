@@ -29,7 +29,7 @@ export async function POST(req: Request) {
     const formattedMessages = messages.map(m => `${m.sender === 'user' ? 'User' : 'Assistant'}: ${m.text}`).join('\n');
     const prompt = `${systemInstruction}\n\nConversation history:\n${formattedMessages}\n\nAssistant:`;
 
-    const modelName = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+    const modelName = 'gemini-3.5-flash-lite';
     
     const response = await ai.models.generateContent({
       model: modelName,
@@ -53,3 +53,5 @@ export async function POST(req: Request) {
     return NextResponse.json({ error: errorMessage }, { status: 500 });
   }
 }
+
+
